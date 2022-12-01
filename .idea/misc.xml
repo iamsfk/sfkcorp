@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/drawable/custom_btn.xml" value="0.1565" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/drawable/ic_about.xml" value="0.1" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/drawable/ic_login.xml" value="0.104" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/drawable/ic_logout.xml" value="0.104" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/drawable/ic_menu.xml" value="0.109" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout-land/activity_csesem3.xml" value="0.2" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_about.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_arts.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_bcom.xml" value="0.18" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_commerce.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_cse_sem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_cse_sem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_csesem3.xml" value="0.2" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_csesem4.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_csesem5.xml" value="0.25" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_csesem6.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_csesem7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_csesem8.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ebook.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ebook1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ebook2.xml" value="0.10379981464318813" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ebook3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ebook4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_javaclass.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_notes.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_others.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_pcmb.xml" value="0.15925925925925927" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_pdf_viewer.xml" value="0.18" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_pg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_privacy.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_puc.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_quetion_branch.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_science.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_sem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_sem_m.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_splashscreen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_sslcsubs.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ug.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/activity_ug_syllabus.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ad_layout.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/basem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/basem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/basem3.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/basem4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/basem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/basem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcasem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcasem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcasem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcasem4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcasem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcasem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomactivity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomsem1.xml" value="0.25" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomsem2.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomsem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomsem4.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomsem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bcomsem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bedsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bedsem2.xml" value="0.15234375" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bedsem3.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bedsem4.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bedsem5.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bedsem6.xml" value="0.15234375" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bscsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bscsem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bscsem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bscsem4.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bscsem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/bscsem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/buttonloading.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem2.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem4.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/civilsem8.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/cse_fsem.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/demo.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ebookfile.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem2.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem3.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem4.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem7.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ecsem8.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem2.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem4.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem5.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem6.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem7.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/eeesem8.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/header.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/loading.xml" value="0.22" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/masem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/masem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/masem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/masem4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/masem5.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/masem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mcomsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mcomsem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mcomsem3.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mcomsem4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mcomsem5.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mcomsem6.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechem7.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem6.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem7.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mechsem8.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mscsem1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mscsem2.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mscsem3.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mscsem4.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mscsem5.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/mscsem6.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/pg_activity.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/pgsyllabus.xml" value="0.203125" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/shimmer_for_ebook.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/layout/ug_syllabus.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/menu/iconmenu.xml" value="0.1" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/menu/sidemenu.xml" value="0.25" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/MC65851/AndroidStudioProjects/Sfkcorp2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1175" />
+        <entry key="..\:/Users/MC65851/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

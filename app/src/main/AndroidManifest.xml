@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.sfkcorp">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sfkcorp"
+        tools:targetApi="31">
+        <activity
+            android:name=".Privacy"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Bcaqueclass"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".UgSyllabus.Ebookbca2"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbca3"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbca4"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbca5"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbca6"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbsc2"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbsc3"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbsc4"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbsc5"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbsc6"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Bscqueclass"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".UgSyllabus.Bcomqueclass"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcm"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcm2"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcm3"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcm4"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcm5"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcm6"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Baqueclass"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".UgSyllabus.EbookBa2"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.EbookBa3"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.EbookBa4"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.EbookBa5"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.EbookBa6"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem36"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem37"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem46"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem56"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem46"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem56"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.commerceque"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.pumathn"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem21"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem22"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem23"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem24"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem25"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem31"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem32"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.eeesem33"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem21"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem22"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem23"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem24"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem25"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem31"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem32"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.ecsem33"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem21"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem22"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem23"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem24"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem25"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem31"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem32"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.civilsem33"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem21"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem22"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem23"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem24"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem25"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem31"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem32"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.mechsem33"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.csem21"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.cse2"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.cesem23"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.cesem24"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.cesem25"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.csem31"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.csem32"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.csem33"
+            android:exported="false" />
+        <activity
+            android:name=".Others.cse"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Others.civil"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Others.Ec"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Others.eee"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Others.mech"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".OtherEbook.QuetionBranch"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".TentEbooks.Ssque"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Ssnotes"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.ScienceNotes"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Scienceque"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Hindinotes"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Hindique"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Englishque"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Englishnotes"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Kannadaque"
+            android:exported="false" />
+        <activity
+            android:name=".TentEbooks.Kannadanotes"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.Tenteng"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Tenthindi"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Tentss"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.TentScience"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.TentKanda"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Sslcsubs"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.TenthEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.PhysicsEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.Physicsque"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.Chemistryque"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.ChemistryEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.MathEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.Mathque"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.Biologyque"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.BiologyEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.Tenth"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Maths"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Physics"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Biology"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Chemistry"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.Pcmb"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.artsque"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.arts"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.commerce"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.science"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem36"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem46"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem56"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem21"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem22"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem23"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem24"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem25"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem31"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem32"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem33"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem34"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem35"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem41"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem42"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem43"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem44"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem45"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem51"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem52"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem53"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem54"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem55"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem61"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.eeesem6"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".Eee.eeesem62"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem63"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem64"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem65"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem71"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem72"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem73"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem74"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem75"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem81"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem82"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem83"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem84"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.eeesem85"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.eeesem1"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.eeesem2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.eeesem3"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.eeesem4"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.eeesem5"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.eeesem7"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.eeesem8"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcSem.ecsem21"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem22"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem23"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem24"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem25"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem31"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem32"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem33"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem34"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem35"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem41"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem42"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem43"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem44"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem45"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem51"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem52"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem53"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem54"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem55"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem61"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem62"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem63"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem64"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem65"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem71"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem72"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem73"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem74"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem75"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem81"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem82"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem83"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem84"
+            android:exported="false" />
+        <activity
+            android:name=".EcSem.ecsem85"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.ecsem1"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem3"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem4"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem5"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem6"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem7"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.ecsem8"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem21"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem22"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem23"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem24"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem25"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem31"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem32"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem33"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem34"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem35"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem41"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem42"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem43"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem44"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem45"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem51"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem52"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem53"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem54"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem55"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem61"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem62"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem63"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem64"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem65"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem71"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem72"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem73"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem74"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem75"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem81"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem82"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem83"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem84"
+            android:exported="false" />
+        <activity
+            android:name=".civilsemmodule.csesem.civilsem85"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.civilsem1"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem3"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem4"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem5"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem6"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem7"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.civilsem8"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem91"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem92"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem93"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem94"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.mechsem85"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem21"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem22"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem23"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem24"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem25"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem31"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem32"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem33"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem34"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem35"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem41"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem42"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem43"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem44"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem45"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem51"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem52"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem53"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem54"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem55"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem61"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem62"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem63"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem64"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem65"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem71"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem72"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem73"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem74"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem75"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem81"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem82"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem83"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem84"
+            android:exported="false" />
+        <activity
+            android:name=".mechsemmodule.csesem.mechsem85"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.mechsem3"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem1"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem5"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem6"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem7"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem8"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MechEbook.mechsem4"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.csesem8"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.csesem7"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.csesem4"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.csesem6"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.csesem5"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".csesem.csem41"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem42"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem43"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem44"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem45"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem51"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem52"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem53"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem54"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem55"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem61"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem62"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem63"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem64"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem65"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem71"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem72"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem73"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem74"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem75"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem81"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem82"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem83"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem84"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem85"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem31"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem32"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem33"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem34"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem35"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.csesem3"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".csesem.cesem22"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.csem21"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.cesem23"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.cesem24"
+            android:exported="false" />
+        <activity
+            android:name=".csesem.cesem25"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.cseSem2"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.cseSem1"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+        <activity
+            android:name=".UgSyllabus.Ebookbca"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.EbookBa"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbcom"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.Ebookbsc"
+            android:exported="false" />
+        <activity
+            android:name=".UgSyllabus.UgSyllabus"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+
+
+        <activity
+            android:name=".BcaSem.BcaEbook"
+            android:exported="false" />
+        <activity
+            android:name=".BcaSem.BcaEbook2"
+            android:exported="false" />
+        <activity
+            android:name=".BcaSem.BcaEbook3"
+            android:exported="false" />
+        <activity
+            android:name=".BcaSem.BcaEbook4"
+            android:exported="false" />
+        <activity
+            android:name=".BcaSem.BcaEbook5"
+            android:exported="false" />
+        <activity
+            android:name=".BcaSem.BcaEbook6"
+            android:exported="false" />
+        <activity
+            android:name=".BcaSem.Bcasem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".bscSem.BscSem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".bscSem.BscEbook"
+            android:exported="false" />
+        <activity
+            android:name=".bscSem.BscEbook2"
+            android:exported="false" />
+        <activity
+            android:name=".bscSem.BscEbook3"
+            android:exported="false" />
+        <activity
+            android:name=".bscSem.BscEbook4"
+            android:exported="false" />
+        <activity
+            android:name=".bscSem.BscEbook5"
+            android:exported="false" />
+        <activity
+            android:name=".bscSem.BscEbook6"
+            android:exported="false" />
+        <activity
+            android:name=".BaSem.Basem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".BaSem.BaEbook"
+            android:exported="false" />
+        <activity
+            android:name=".BaSem.BaEbook2"
+            android:exported="false" />
+        <activity
+            android:name=".BaSem.BaEbook3"
+            android:exported="false" />
+        <activity
+            android:name=".BaSem.BaEbook4"
+            android:exported="false" />
+        <activity
+            android:name=".BaSem.BaEbook5"
+            android:exported="false" />
+        <activity
+            android:name=".BaSem.BaEbook6"
+            android:exported="false" />
+        <activity
+            android:name=".PgActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".UgActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".about"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.ArtsEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.CommerEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.EduEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.ScienEbook"
+            android:exported="false" />
+        <activity
+            android:name=".sslcebookactivity.PucAct"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".bcom.BmEbookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".bcom.BmEbookActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".bcom.BcEbookActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".bcom.BmEbookActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".bcom.BmEbookActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".bcom.BmEbookActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".bcom.bcomSem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".sslcebookactivity.SslcEbook"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.SunEbook"
+            android:exported="false" />
+        <activity
+            android:name=".OtherEbook.EBookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Others.OthersActivity"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".EeEbook.EeEbookActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".Eee.EeSem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcSem.ecSem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".EcEbook.EcEbookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity2"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity3"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity4"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity5"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity6"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity7"
+            android:exported="false" />
+        <activity
+            android:name=".EcEbook.EcEbookActvity8"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity8"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity7"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity6"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity5"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity4"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity3"
+            android:exported="false" />
+        <activity
+            android:name=".CivilEbook.CEbookActvity2"
+            android:exported="false" />
+        <activity
+            android:name=".Civil.Civilsem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".CivilEbook.CEbookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity7"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".MechEbook.MEbookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Mechsem.SemM"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".ebook.EbookActivity8"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.Ebookactivity7"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.EbookActivity6"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.EbookActivity5"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.EbookActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.EbookActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.EbookActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.pdfViewer"
+            android:exported="false" />
+        <activity
+            android:name=".ebook.EbookActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Sem"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".Notes"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Splashscreen"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-2940628810690757~9187014630" />
+    </application>
+
+</manifest>

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Pocket Notes</string>
+
+    <string name="navigationopen">open Navigation drawer</string>
+    <string name="navigationclose">close Navigation drawer</string>
+
+    <string name="Mommadshafik">Software developers conceive of, design, and build computer programs. Some develop new applications for mobile or desktop use, while others build underlying operating systems. Either way, software developers identify user needs, build programs, test out new software, and make improvements,</string>
+
+    <string name="appId">ca-app-pub-2940628810690757~9187014630</string>
+    <string name="unitId">ca-app-pub-2940628810690757/8711823175</string>
+    <string name="unitad">ca-app-pub-2940628810690757/3245805709</string>
+    <string name="inter2">ca-app-pub-2940628810690757/5914015858</string>
+    <string name="inter3">ca-app-pub-2940628810690757/1104542301</string>
+    <string name="inter4">ca-app-pub-2940628810690757/9912970612</string>
+    <string name="inter5">ca-app-pub-2940628810690757/8317366654</string>
+    <string name="inter6">ca-app-pub-2940628810690757/4189870642</string>
+    <string name="inter7">ca-app-pub-2940628810690757/7441616294</string>
+    <string name="inter8">ca-app-pub-2940628810690757/9985671541</string>
+    <string name="inter9">ca-app-pub-2940628810690757/5754782492</string>
+    <string name="inter10">ca-app-pub-2940628810690757/2544512836</string>
+    <string name="inter11">ca-app-pub-2940628810690757/2352941145</string>
+    <string name="inter12">ca-app-pub-2940628810690757/4680825236</string>
+    <string name="inter13">ca-app-pub-2940628810690757/3634233223</string>
+    <string name="inter14">ca-app-pub-2940628810690757/3059518151</string>
+    <string name="inter15">ca-app-pub-2940628810690757/6804974438</string>
+    <string name="inter16">ca-app-pub-2940628810690757/2291014350</string>
+    <string name="inter17">ca-app-pub-2940628810690757/2933710863</string>
+    <string name="inter18">ca-app-pub-2940628810690757/5471162721</string>
+    <string name="inter19">ca-app-pub-2940628810690757/3707203654</string>
+    <string name="inter20">ca-app-pub-2940628810690757/8696091860</string>
+    <string name="inter21">ca-app-pub-2940628810690757/6808295126</string>
+    <string name="inter22">ca-app-pub-2940628810690757/2017899223</string>
+    <string name="inter23">ca-app-pub-2940628810690757/1620629199</string>
+    <string name="inter24">ca-app-pub-2940628810690757/9676897396</string>
+    <string name="inter25">ca-app-pub-2940628810690757/6859162360</string>
+    <string name="inter26">ca-app-pub-2940628810690757/7789100651</string>
+    <string name="inter27">ca-app-pub-2940628810690757/2523798709</string>
+    <string name="inter28">ca-app-pub-2940628810690757/5510707083</string>
+    <string name="inter29">ca-app-pub-2940628810690757/1534150666</string>
+    <string name="inter30">ca-app-pub-2940628810690757/8930528602</string>
+    <string name="inter31">ca-app-pub-2940628810690757/5250852631</string>
+    <string name="inter32">ca-app-pub-2940628810690757/6611217524</string>
+    <string name="coming">Coming Soon1</string>
+
+</resources>
